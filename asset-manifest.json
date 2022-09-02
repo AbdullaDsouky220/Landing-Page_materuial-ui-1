@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/css/main.d9c472b0.css",
-    "main.js": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/js/main.6e4e44d6.js",
-    "static/media/reviewer1.jpg": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/media/reviewer1.829f5635c05b46b4928d.jpg",
-    "static/media/image1.png": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/media/image1.16b5fa2386fea18166ba.png",
-    "static/media/1.svg": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/media/1.bb56ae9bd8f51fbfad46177f20a2eae3.svg",
-    "index.html": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/index.html",
-    "main.d9c472b0.css.map": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/css/main.d9c472b0.css.map",
-    "main.6e4e44d6.js.map": "/AbdullaDsouky220/Landing-Page_materuial-ui-1/static/js/main.6e4e44d6.js.map"
+    "main.css": "/Landing-Page_materuial-ui-1/static/css/main.d9c472b0.css",
+    "main.js": "/Landing-Page_materuial-ui-1/static/js/main.77fb5ae8.js",
+    "static/media/reviewer1.jpg": "/Landing-Page_materuial-ui-1/static/media/reviewer1.829f5635c05b46b4928d.jpg",
+    "static/media/image1.png": "/Landing-Page_materuial-ui-1/static/media/image1.16b5fa2386fea18166ba.png",
+    "static/media/1.svg": "/Landing-Page_materuial-ui-1/static/media/1.bb56ae9bd8f51fbfad46177f20a2eae3.svg",
+    "index.html": "/Landing-Page_materuial-ui-1/index.html",
+    "main.d9c472b0.css.map": "/Landing-Page_materuial-ui-1/static/css/main.d9c472b0.css.map",
+    "main.77fb5ae8.js.map": "/Landing-Page_materuial-ui-1/static/js/main.77fb5ae8.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c472b0.css",
-    "static/js/main.6e4e44d6.js"
+    "static/js/main.77fb5ae8.js"
   ]
 }
